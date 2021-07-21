@@ -1,0 +1,6 @@
+server
+go.sum
+audio/BachGavotteShort/*.ts
+audio/BachGavotteShort/*.m3u8
+audio/kuam-news-updates/*.ts
+audio/BachGavotteShort/*.m3u8
