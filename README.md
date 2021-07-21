@@ -23,7 +23,7 @@ Navigate to the directory with a video or audio clip (I'm using an MP3 here) and
 Start (or build) the server, which listens for requests on port 8080:
 - `go run main.go`
 - `go build -o server main.go` and then `./server` 
-- (or `server.exe` on Windows)
+- (Or `./server.exe` for Windows)
 
 
 
