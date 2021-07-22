@@ -1,6 +1,6 @@
 # Streaming media server using HTTP Live Streaming in Go
 
-## Forked from the excellent tutorial by Lane Wagner at [QVault](https://dev.to/qvault/building-a-music-video-streaming-server-in-go-using-hls-216m)
+## Forked from the excellent tutorials by Lane Wagner at [QVault](https://dev.to/qvault/building-a-music-video-streaming-server-in-go-using-hls-216m) and [Rohir Mundra](https://rohitmundra.com/video-streaming-server)
 
 ### Requirements:
 - [Go](https://golang.org/)
